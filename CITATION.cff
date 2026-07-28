@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this protocol in your research, please cite it as below."
+authors:
+  - family-names: "Mercer"
+    given-names: "Alex"
+    orcid: "https://orcid.org/0000-0002-1825-0097"
+    affiliation: "Stanford University"
+title: "Peptide Stability Analysis Protocol (HPLC Method)"
+version: 1.0.0
+date-released: 2026-07-28
+url: "https://github.com/alexmercer/peptide-stability-analysis-protocol"
